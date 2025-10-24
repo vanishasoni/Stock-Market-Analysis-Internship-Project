@@ -25,6 +25,6 @@ It contains exploratory data analysis (EDA), visualizations, feature engineering
 4. Correlation heatmaps reveal relationships between features.
 5. The Linear Regression model achieves a good baseline accuracy for predicting next-day Close prices.
 
-##Author
+## Author
 Vanisha Soni
-Aspiring Data Analyst | Python Enthusiast | Stock Market Learner
+Aspiring Data Analyst | Python Enthusiast 
