@@ -1,5 +1,5 @@
 # Stock Market Analysis
-# Project Overview
+## Project Overview
 This is a simple yet complete **Stock Market Data Analysis** project prepared for internship portfolio use.
 It contains exploratory data analysis (EDA), visualizations, feature engineering, and a small baseline prediction model.
 
