@@ -3,17 +3,6 @@
 This is a simple yet complete **Stock Market Data Analysis** project prepared for internship portfolio use.
 It contains exploratory data analysis (EDA), visualizations, feature engineering, and a small baseline prediction model.
 
-## Project Structure
-📦 Stock-Market-Analysis-Internship-Project
-│
-├── stock_analysis.ipynb        # Main analysis notebook (EDA, ML model)
-├── stocks.csv                  # Dataset used for analysis
-├── requirements.txt             # Required libraries
-├── images                      # visualization images
-├── simple_data_analysis.py      # Basic script for quick insights
-└── README.md                    # Project documentation
-
-
 ## Goals
 1. Clean and explore the stock data.
 2. Visualize price trends, moving averages, returns, and volume patterns.
